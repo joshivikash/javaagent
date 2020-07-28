@@ -1,0 +1,4 @@
+Agent-Class: com.javaagenteg.GracefullyKillingJavaProcess
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+
